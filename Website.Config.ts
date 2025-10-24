@@ -90,21 +90,21 @@ export const officersDeps = [
       },
       {
         name: 'Samuel Salazar',
-        role: 'Boat Director',
+        role: 'Galaxsea Boat Director',
         major: 'Mechanical Engineering',
         img: '/imgs/officers/Sam.jpg',
         gradYear: 2028
       },
       {
         name: 'Kevin Dang',
-        role: 'ROV Director',
+        role: 'Hydromeda ROV Director',
         major: 'Computer Science',
         img: '/imgs/officers/Kevin.jpg',
         gradYear: 2026
       },
       {
         name: 'Zainuddin Mohammad',
-        role: 'Boat Director',
+        role: 'Hydromeda Float Director',
         major: 'Computer Science',
         img: '/imgs/officers/Zain.jpg',
         gradYear: 2026
